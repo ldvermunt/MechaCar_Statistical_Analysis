@@ -31,3 +31,5 @@
 
 Lot one and two have p-values at or near 1 which means they are close to the population mean of 1500 psi.  Lot three which had a high variance has a p-value of 0.04 which means it's mean values are different from the population mean.
 ## Study Design: MechaCar vs Competition
+Many additional tests could be completed with the right data to further help the "Mecha Car" company determine how they stand vs. their competition.  
+One important factor consumers are interested in is fuel mileage.  If the mecha car company was to compile the average, city, and HWY mileage of all of their models, they could so a tow smaple t-test vs the mean for all other manufacturers combined.  Their null hypothesis would be that their cars have the same mileage as the other manufacturers.  If their p-value was high it would diprove the null hypothesis, and they could advertise that their cars have better mileage than the competition.  They would also need to campare the mileages to be sure that the p-value wasn't showing that their mileage was significantly lower than the competition.  
